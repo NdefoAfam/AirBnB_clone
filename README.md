@@ -153,4 +153,4 @@ Usage	<class name>.count()
 
 Authors
 Ndefo Afam <ndefoafam@gmail.com>
-Ifoghale Uzezi <.com>
+Ifoghale Uzezi <ifoghaleuzezi@gmail.com>
